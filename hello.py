@@ -1,0 +1,1 @@
+print("Bonjour ! Je commence ma formation aujourd'hui.")
